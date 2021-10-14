@@ -1,0 +1,1 @@
+Say you are playing with a fair 6-sided die. What is the average number of rolls it would take for you to get all numbers on the die?
